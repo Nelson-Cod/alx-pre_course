@@ -1,2 +1,2 @@
 My first readme
-this readme was not easy
+ but this readme was not easy
